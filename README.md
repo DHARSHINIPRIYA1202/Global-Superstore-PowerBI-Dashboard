@@ -36,7 +36,8 @@ The project demonstrates the complete process from **data preparation to busines
 
 👩‍💻 Author
 
- DharshiniPriya
+ DharshiniPriya R
+ 
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel**
 
